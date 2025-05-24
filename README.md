@@ -17,7 +17,8 @@ A content-based movie recommender system built using **Python**, **Streamlit**, 
 
 ## 🗂️ Project Structure
 
-[Image](https://github.com/user-attachments/assets/9961ef4d-4e26-4633-a450-12590fc97556)
+![Image](https://github.com/user-attachments/assets/9961ef4d-4e26-4633-a450-12590fc97556)
+
 
 ---
 
@@ -67,7 +68,8 @@ To fetch movie posters, you need a TMDb API key.
 ```
 📸 Demo Screenshot
 ---
-![Image](https://github.com/user-attachments/assets/eabb30c7-b07b-4a44-b220-a94e5aaeafaa)
+![Screenshot](https://github.com/user-attachments/assets/eabb30c7-b07b-4a44-b220-a94e5aaeafaa)
+
 📈 Future Enhancements
 ---
 🔄 Add collaborative filtering for user-based recommendations
