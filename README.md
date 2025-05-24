@@ -17,16 +17,7 @@ A content-based movie recommender system built using **Python**, **Streamlit**, 
 
 ## 🗂️ Project Structure
 
-movie-recommender/
-│
-├── app.py # Streamlit web app
-├── main.py # Data processing and model building
-├── Movie_Recommender_System.ipynb # Optional: Jupyter notebook version
-├── movie_list.pkl # Processed movie metadata (pickle file)
-├── similarity.pkl # Cosine similarity matrix (pickle file)
-├── tmdb_5000_movies.csv # Original movie dataset
-├── tmdb_5000_credits.csv # Original credits dataset
-
+[Image](https://github.com/user-attachments/assets/9961ef4d-4e26-4633-a450-12590fc97556)
 
 ---
 
