@@ -8,7 +8,7 @@ movies = pickle.load(open('movie_list.pkl', 'rb'))
 similarity = pickle.load(open('similarity.pkl', 'rb'))
 
 # TMDB API Key (replace with your own)
-API_KEY = "ba2f59ea6b4a2dbe6c2ad32ef557efed"
+API_KEY = "your_tmdb_api_key"
 
 # Poster fetching function
 def fetch_poster(movie_id):
